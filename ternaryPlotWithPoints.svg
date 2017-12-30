@@ -1,0 +1,141 @@
+<svg id="svgImage" width="600" height="600">
+    <g id="svgChart">
+        <path stroke-weight="2" stroke="black" d="M 50 550 L 550 550 L 300 116.9872981077807 z" fill="Bisque" id="svgChart-background-" />
+        <line stroke-dasharray="1,1" stroke-weight="1" stroke="SaddleBrown" id="svgChartprimary-interval-0" y2="405.6624327025936" x2="466.66666666666663" y1="405.6624327025936" x1="133.33333333333334" />
+        <line stroke-dasharray="1,1" stroke-weight="1" stroke="SaddleBrown" id="svgChartprimary-interval-1" y2="261.32486540518715" x2="383.3333333333333" y1="550" x1="216.66666666666666" />
+        <line stroke-dasharray="1,1" stroke-weight="1" stroke="SaddleBrown" id="svgChartprimary-interval-2" y2="261.32486540518715" x2="216.66666666666669" y1="550" x1="383.3333333333333" />
+        <line stroke-dasharray="1,1" stroke-weight="1" stroke="SaddleBrown" id="svgChartprimary-interval-3" y2="550" x2="216.66666666666666" y1="405.6624327025936" x1="133.33333333333334" />
+        <line stroke-dasharray="1,1" stroke-weight="1" stroke="SaddleBrown" id="svgChartprimary-interval-4" y2="405.6624327025936" x2="466.66666666666663" y1="550" x1="383.3333333333333" />
+        <line stroke-dasharray="1,1" stroke-weight="1" stroke="SaddleBrown" id="svgChartprimary-interval-5" y2="261.32486540518715" x2="383.3333333333333" y1="261.32486540518715" x1="216.66666666666669" />
+        <line id="svgChart-tenth-line-0" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="550" y1="160.28856829700263" x2="500" x1="275" />
+        <line id="svgChart-tenth-line-2" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="160.28856829700263" y1="160.28856829700263" x2="325" x1="275" />
+        <line id="svgChart-tenth-line-3" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="550" y1="203.58983848622455" x2="450" x1="250" />
+        <line id="svgChart-tenth-line-4" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="203.58983848622455" y1="550" x2="350" x1="150" />
+        <line id="svgChart-tenth-line-5" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="203.58983848622455" y1="203.58983848622455" x2="350" x1="250" />
+        <line id="svgChart-tenth-line-6" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="550" y1="246.8911086754465" x2="400" x1="225" />
+        <line id="svgChart-tenth-line-7" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="246.8911086754465" y1="550" x2="375" x1="200" />
+        <line id="svgChart-tenth-line-8" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="246.8911086754465" y1="246.8911086754465" x2="375" x1="225" />
+        <line id="svgChart-tenth-line-9" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="550" y1="290.1923788646684" x2="350" x1="200" />
+        <line id="svgChart-tenth-line-10" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="290.1923788646684" y1="550" x2="400" x1="250" />
+        <line id="svgChart-tenth-line-11" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="290.1923788646684" y1="290.1923788646684" x2="400" x1="200" />
+        <line id="svgChart-tenth-line-12" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="550" y1="333.49364905389035" x2="300" x1="175" />
+        <line id="svgChart-tenth-line-13" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="333.49364905389035" y1="550" x2="425" x1="300" />
+        <line id="svgChart-tenth-line-14" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="333.49364905389035" y1="333.49364905389035" x2="425" x1="175" />
+        <line id="svgChart-tenth-line-15" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="550" y1="376.7949192431123" x2="250" x1="150" />
+        <line id="svgChart-tenth-line-16" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="376.7949192431123" y1="550" x2="450" x1="350" />
+        <line id="svgChart-tenth-line-17" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="376.7949192431123" y1="376.7949192431123" x2="450" x1="150" />
+        <line id="svgChart-tenth-line-18" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="550" y1="420.0961894323342" x2="200" x1="125" />
+        <line id="svgChart-tenth-line-19" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="420.0961894323342" y1="550" x2="475" x1="400" />
+        <line id="svgChart-tenth-line-20" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="420.0961894323342" y1="420.0961894323342" x2="475" x1="125" />
+        <line id="svgChart-tenth-line-21" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="550" y1="463.39745962155615" x2="150" x1="100" />
+        <line id="svgChart-tenth-line-22" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="463.39745962155615" y1="550" x2="500" x1="450" />
+        <line id="svgChart-tenth-line-23" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="463.39745962155615" y1="463.39745962155615" x2="500" x1="100" />
+        <line id="svgChart-tenth-line-24" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="550" y1="506.6987298107781" x2="100" x1="75" />
+        <line id="svgChart-tenth-line-25" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="506.6987298107781" y1="550" x2="525" x1="500" />
+        <line id="svgChart-tenth-line-26" stroke-dasharray="1,2" stroke-weight="1" stroke="black" y2="506.6987298107781" y1="506.6987298107781" x2="525" x1="75" />
+        <path fill="none" id="svgChart-tic-0" stroke-weight="1" stroke="black" d="M 285 160.28856829700263 L 275 160.28856829700263 L 280 168.94882233484702" />
+        <path fill="none" id="svgChart-tic-1" stroke-weight="1" stroke="black" d="M 260 203.58983848622455 L 250 203.58983848622455 L 255 212.25009252406895" />
+        <path fill="none" id="svgChart-tic-2" stroke-weight="1" stroke="black" d="M 235 246.8911086754465 L 225 246.8911086754465 L 230 255.5513627132909" />
+        <path fill="none" id="svgChart-tic-3" stroke-weight="1" stroke="black" d="M 210 290.1923788646684 L 200 290.1923788646684 L 205 298.85263290251277" />
+        <path fill="none" id="svgChart-tic-4" stroke-weight="1" stroke="black" d="M 185 333.49364905389035 L 175 333.49364905389035 L 180 342.1539030917347" />
+        <path fill="none" id="svgChart-tic-5" stroke-weight="1" stroke="black" d="M 160 376.7949192431123 L 150 376.7949192431123 L 155 385.45517328095667" />
+        <path fill="none" id="svgChart-tic-6" stroke-weight="1" stroke="black" d="M 135 420.0961894323342 L 125 420.0961894323342 L 130 428.75644347017857" />
+        <path fill="none" id="svgChart-tic-7" stroke-weight="1" stroke="black" d="M 110 463.39745962155615 L 100 463.39745962155615 L 105 472.0577136594005" />
+        <path fill="none" id="svgChart-tic-8" stroke-weight="1" stroke="black" d="M 85 506.6987298107781 L 75 506.6987298107781 L 80 515.3589838486225" />
+        <path fill="none" id="svgChart-tic-9" stroke-weight="1" stroke="black" d="M 95 541.3397459621556 L 100 550 L 105 541.3397459621556" />
+        <path fill="none" id="svgChart-tic-10" stroke-weight="1" stroke="black" d="M 145 541.3397459621556 L 150 550 L 155 541.3397459621556" />
+        <path fill="none" id="svgChart-tic-11" stroke-weight="1" stroke="black" d="M 195 541.3397459621556 L 200 550 L 205 541.3397459621556" />
+        <path fill="none" id="svgChart-tic-12" stroke-weight="1" stroke="black" d="M 245 541.3397459621556 L 250 550 L 255 541.3397459621556" />
+        <path fill="none" id="svgChart-tic-13" stroke-weight="1" stroke="black" d="M 295 541.3397459621556 L 300 550 L 305 541.3397459621556" />
+        <path fill="none" id="svgChart-tic-14" stroke-weight="1" stroke="black" d="M 345 541.3397459621556 L 350 550 L 355 541.3397459621556" />
+        <path fill="none" id="svgChart-tic-15" stroke-weight="1" stroke="black" d="M 395 541.3397459621556 L 400 550 L 405 541.3397459621556" />
+        <path fill="none" id="svgChart-tic-16" stroke-weight="1" stroke="black" d="M 445 541.3397459621556 L 450 550 L 455 541.3397459621556" />
+        <path fill="none" id="svgChart-tic-17" stroke-weight="1" stroke="black" d="M 495 541.3397459621556 L 500 550 L 505 541.3397459621556" />
+        <path fill="none" id="svgChart-tic-18" stroke-weight="1" stroke="black" d="M 515 506.6987298107781 L 525 506.6987298107781 L 520 515.3589838486225" />
+        <path fill="none" id="svgChart-tic-19" stroke-weight="1" stroke="black" d="M 490 463.39745962155615 L 500 463.39745962155615 L 495 472.0577136594005" />
+        <path fill="none" id="svgChart-tic-20" stroke-weight="1" stroke="black" d="M 465 420.0961894323342 L 475 420.0961894323342 L 470 428.75644347017857" />
+        <path fill="none" id="svgChart-tic-21" stroke-weight="1" stroke="black" d="M 440 376.7949192431123 L 450 376.7949192431123 L 445 385.45517328095667" />
+        <path fill="none" id="svgChart-tic-22" stroke-weight="1" stroke="black" d="M 415 333.49364905389035 L 425 333.49364905389035 L 420 342.1539030917347" />
+        <path fill="none" id="svgChart-tic-23" stroke-weight="1" stroke="black" d="M 390 290.1923788646684 L 400 290.1923788646684 L 395 298.85263290251277" />
+        <path fill="none" id="svgChart-tic-24" stroke-weight="1" stroke="black" d="M 365 246.8911086754465 L 375 246.8911086754465 L 370 255.5513627132909" />
+        <path fill="none" id="svgChart-tic-25" stroke-weight="1" stroke="black" d="M 340 203.58983848622455 L 350 203.58983848622455 L 345 212.25009252406895" />
+        <path fill="none" id="svgChart-tic-26" stroke-weight="1" stroke="black" d="M 315 160.28856829700263 L 325 160.28856829700263 L 320 168.94882233484702" />
+        <g id="marker-83-24">
+            <title>83-24</title>
+            <path fill="green" stroke-width="1" stroke="black" d="M 174.99999999999994 362.1346652052679 L 169.99999999999994 371.1346652052679 L 179.99999999999994 371.1346652052679 z" />
+        </g>
+        <g id="marker-83-26">
+            <title>83-26</title>
+            <path fill="green" stroke-width="1" stroke="black" d="M 185.9060402684563 331.85283732797313 L 180.9060402684563 340.85283732797313 L 190.9060402684563 340.85283732797313 z" />
+        </g>
+        <g id="marker-83-27">
+            <title>83-27</title>
+            <rect fill="blue" stroke-width="1" stroke="black" height="10" width="10" y="267.8718707889796" x="234.99999999999994" />
+        </g>
+        <g id="marker-83-33">
+            <title>83-33</title>
+            <path fill="orange" stroke-width="1" stroke="black" d="M 273.33333333333326 325.6068977079422 L 268.33333333333326 330.6068977079422 L 273.33333333333326 335.6068977079422 L 278.33333333333326 330.6068977079422 z" />
+        </g>
+        <g id="marker-83-34">
+            <title>83-34</title>
+            <path fill="orange" stroke-width="1" stroke="black" d="M 246.66666666666663 325.6068977079422 L 241.66666666666663 330.6068977079422 L 246.66666666666663 335.6068977079422 L 251.66666666666663 330.6068977079422 z" />
+        </g>
+        <g id="marker-83-1">
+            <title>83-1</title>
+            <path fill="green" stroke-width="1" stroke="black" d="M 183.33333333333331 324.6068977079422 L 178.33333333333331 333.6068977079422 L 188.33333333333331 333.6068977079422 z" />
+        </g>
+        <g id="marker-83-4">
+            <title>83-4</title>
+            <circle fill="red" stroke-width="1" stroke="black" r="5" cy="258.438114059239" cx="241.66666666666663" />
+        </g>
+        <g id="marker-83-8">
+            <title>83-8</title>
+            <path fill="orange" stroke-width="1" stroke="black" d="M 234.99999999999994 311.17314097820156 L 229.99999999999994 316.17314097820156 L 234.99999999999994 321.17314097820156 L 239.99999999999994 316.17314097820156 z" />
+        </g>
+        <g id="marker-83-9">
+            <title>83-9</title>
+            <path fill="orange" stroke-width="1" stroke="black" d="M 249.99999999999994 267.8718707889796 L 244.99999999999994 272.8718707889796 L 249.99999999999994 277.8718707889796 L 254.99999999999994 272.8718707889796 z" />
+        </g>
+        <g id="marker-83-10">
+            <title>83-10</title>
+            <path fill="orange" stroke-width="1" stroke="black" d="M 246.66666666666663 342.927405783631 L 241.66666666666663 347.927405783631 L 246.66666666666663 352.927405783631 L 251.66666666666663 347.927405783631 z" />
+        </g>
+        <g id="marker-83-17">
+            <title>83-17</title>
+            <path fill="orange" stroke-width="1" stroke="black" d="M 208.33333333333331 328.49364905389035 L 203.33333333333331 333.49364905389035 L 208.33333333333331 338.49364905389035 L 213.33333333333331 333.49364905389035 z" />
+        </g>
+        <g id="marker-83-23">
+            <title>83-23</title>
+            <rect fill="blue" stroke-width="1" stroke="black" height="10" width="10" y="285.19237886466846" x="224.99999999999994" />
+        </g>
+        <g id="marker-83-20">
+            <title>83-20</title>
+            <rect fill="blue" stroke-width="1" stroke="black" height="10" width="10" y="276.5321248268241" x="216.66666666666663" />
+        </g>
+        <g id="marker-83-21">
+            <title>83-21</title>
+            <circle fill="red" stroke-width="1" stroke="black" r="5" cy="258.438114059239" cx="241.66666666666663" />
+        </g>
+        <g id="marker-83-22">
+            <title>83-22</title>
+            <path fill="orange" stroke-width="1" stroke="black" d="M 236.66666666666663 290.9658815565647 L 231.66666666666663 295.9658815565647 L 236.66666666666663 300.9658815565647 L 241.66666666666663 295.9658815565647 z" />
+        </g>
+        <g id="marker-83-37">
+            <title>83-37</title>
+            <path fill="green" stroke-width="1" stroke="black" d="M 176.66666666666657 336.1539030917347 L 171.66666666666657 345.1539030917347 L 181.66666666666657 345.1539030917347 z" />
+        </g>
+        <g id="marker-83-40">
+            <title>83-40</title>
+            <path fill="green" stroke-width="1" stroke="black" d="M 190 336.1539030917347 L 185 345.1539030917347 L 195 345.1539030917347 z" />
+        </g>
+        <g id="marker-control">
+            <title>control</title>
+            <circle fill="magenta" stroke-width="1" stroke="black" r="5" cy="399.9460934036864" cx="136.63366336633658" />
+        </g>
+        <text fomt-weight="bolder" font-size="36" font-family="&quot;Times New Roman&quot;, Times, serif" y="25" x="300" text-anchor="middle">Petrographic Data</text>
+        <text fomt-weight="bold" font-size="20" font-family="&quot;Times New Roman&quot;, Times, serif" y="50" x="300" text-anchor="middle">Swauk Formation Sandstone</text>
+        <text fomt-weight="bold" font-size="16" font-family="Verdana, Geneva, sans-serif" y="106.9872981077807" x="300" text-anchor="middle">Quartz</text>
+        <text fomt-weight="bold" font-size="16" font-family="Verdana, Geneva, sans-serif" y="570" x="50" text-anchor="middle">Feldspar</text>
+        <text fomt-weight="bold" font-size="16" font-family="Verdana, Geneva, sans-serif" y="570" x="550" text-anchor="middle">Lithic</text>
+    </g>
+</svg>
