@@ -2,7 +2,7 @@
 (function () {
     "use strict";
 
-    angular.module('myApp')
+    angular.module('geocharting')
         .directive('ternaryPlot', ['$timeout', 'ternaryPlotService', 'chartSettingsService', function ($timeout, ternaryPlotService, chartSettingsService) {
             controller.$inject = ['$scope', '$element'];
 

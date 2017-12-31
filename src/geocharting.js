@@ -1,1 +1,3 @@
-angular.module('geocharting', []);
+(function(){
+    angular.module('geocharting', []);
+})();
