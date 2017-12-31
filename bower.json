@@ -1,0 +1,21 @@
+{
+  "name": "geocharting",
+  "description": "An AngularJS library for geologic data charting",
+  "main": "src\\geocharting.js",
+  "authors": [
+    "'Russel Madere",
+    "Jr. <'russel.madere@gmail.com'>"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/russelmadere/GeoCharting",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.8"
+  }
+}
