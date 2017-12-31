@@ -3,7 +3,7 @@
  */
 (function(){
 
-    angular.module('myApp').controller('mainController', ['chartSettingsService', function (chartSettingsService) {
+    angular.module('myApp').controller('mainController', ['geocharting', function (geocharting) {
         var self = this;
 
         self.data = [];
