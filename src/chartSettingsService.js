@@ -3,7 +3,8 @@
  */
 (function () {
 
-    angular.module('geocharting').factory('chartSettingsService', [function () {
+    angular.module('geoCharting')
+        .factory('chartSettingsService', [function () {
         var chartSettings = {};
         // Create the basic symbol shapes
         chartSettings.symbols = {};
@@ -69,5 +70,5 @@
             getChartStyles: getChartStyles,
             setChartSettings: setChartSettings
         }
-    }])
+    }]);
 })();

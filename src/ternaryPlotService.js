@@ -3,8 +3,8 @@
  */
 (function(){
 
-    angular.module('geocharting').
-    factory('ternaryPlotService', ['SIXTY_DEGREES', function(SIXTY_DEGREES) {
+    angular.module('geoCharting')
+        .factory('ternaryPlotService', ['SIXTY_DEGREES', function(SIXTY_DEGREES) {
         return {
             calculateSideCoordinates: calculateSideCoordinates,
             calculatePrimaryIntervals: calculatePrimaryIntervals,
