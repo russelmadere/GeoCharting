@@ -25,7 +25,7 @@ that references the ternaryPlot directive. In your application controller, injec
 to have the ability to override the default chart settings and add your data to an array of objects
 (defined below) that is referenced in the directive call.
 
-```html5
+```html
     <div data-ternary-plot="" 
          data-svg-id="svgImage" 
          data-chart-id="svgChart" 
