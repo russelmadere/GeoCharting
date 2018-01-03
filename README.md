@@ -10,7 +10,7 @@ is generated, but other charts will be added as the code base grows.
 
 ## Ternary Plots
 
-![Ternary Plot Sample Image](https://github.com/russelmadere/GeoCharting/example/sample.jpg)
+![Ternary Plot Sample Image](https://github.com/russelmadere/GeoCharting/blob/master/example/sample.jpg)
 
 A ternary ploy, also know as a Gibbs triangle or  de Finetti diagram, is a plot where there are three 
 variables in a measured system. For example, the chemical composition of feldspar mineral is based 
