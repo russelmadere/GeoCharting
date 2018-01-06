@@ -4,7 +4,7 @@
 (function () {
 
     angular.module('geoCharting')
-        .factory('chartSettingsService', [function () {
+        .factory('chartSettingsService', ['_', function (_) {
         var chartSettings = {};
         // Create the basic symbol shapes
         chartSettings.symbols = {};
@@ -60,7 +60,7 @@
         }
 
         function setChartSettings(newSettings) {
-            angular.merge(chartSettings, newSettings);
+            _.merge(chartSettings, newSettings);
         }
 
         return {
